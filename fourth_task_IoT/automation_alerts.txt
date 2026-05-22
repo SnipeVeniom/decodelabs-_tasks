@@ -1,0 +1,12 @@
+IoT AUTOMATION ALERTS LOG — 2026-05-19 10:34:56
+==============================================================
+
+[Reading #3] @ 10:34:58
+  🚨  [CRITICAL] Motion       Value=DETECTED     → ACTION: Activate Security Light & Notify
+
+[Reading #7] @ 10:35:02
+  🔴  [CRITICAL] Temperature  Value=30.24 °C     → ACTION: Turn ON Air Conditioner
+
+[Reading #9] @ 10:35:04
+  🚨  [CRITICAL] Motion       Value=DETECTED     → ACTION: Activate Security Light & Notify
+

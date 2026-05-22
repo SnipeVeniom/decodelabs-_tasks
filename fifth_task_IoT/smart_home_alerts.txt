@@ -1,0 +1,43 @@
+IoT AUTOMATION ALERTS LOG — 2026-05-22 08:39:57
+==============================================================
+
+[Reading #1] @ 08:39:57
+  💡  [INFO    ] Light        Value=384.14 lux   → ACTION: Turn ON Indoor Lights
+
+[Reading #3] @ 08:39:59
+  💧  [WARNING ] Humidity     Value=62.4 %       → ACTION: Turn ON Dehumidifier
+
+[Reading #4] @ 08:40:00
+  🚨  [CRITICAL] Motion       Value=DETECTED     → ACTION: Activate Security Light & Notify
+
+[Reading #7] @ 08:40:03
+  ✅  [INFO    ] Humidity     Value=56.85 %      → ACTION: Turn OFF Dehumidifier
+
+[Reading #8] @ 08:40:04
+  🔵  [WARNING ] Temperature  Value=25.92 °C     → ACTION: Turn ON Heater
+
+[Reading #12] @ 08:40:08
+  ✅  [INFO    ] Light        Value=407.2 lux    → ACTION: Turn OFF Indoor Lights
+
+[Reading #13] @ 08:40:09
+  💧  [WARNING ] Humidity     Value=58.4 %       → ACTION: Turn ON Dehumidifier
+
+[Reading #14] @ 08:40:10
+  ✅  [INFO    ] Humidity     Value=56.42 %      → ACTION: Turn OFF Dehumidifier
+
+[Reading #15] @ 08:40:11
+  ☀️  [INFO    ] Light        Value=431.46 lux   → ACTION: Close Window Blinds
+
+[Reading #16] @ 08:40:12
+  🌡️  [INFO    ] Temperature  Value=26.07 °C     → ACTION: Turn OFF Heater
+
+[Reading #17] @ 08:40:13
+  🔵  [WARNING ] Temperature  Value=25.98 °C     → ACTION: Turn ON Heater
+  ✅  [INFO    ] Light        Value=426.37 lux   → ACTION: Open Window Blinds
+
+[Reading #18] @ 08:40:14
+  🚨  [CRITICAL] Motion       Value=DETECTED     → ACTION: Activate Security Light & Notify
+
+[Reading #20] @ 08:40:16
+  🌡️  [INFO    ] Temperature  Value=26.18 °C     → ACTION: Turn OFF Heater
+
